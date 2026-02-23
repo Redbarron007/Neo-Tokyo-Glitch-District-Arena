@@ -8,3 +8,4 @@
 <img width="1696" height="2528" alt="Final_Boss_Idle" src="https://github.com/user-attachments/assets/c189da7a-6ccf-4110-865d-bd14588ceb23" />
 <img width="1463" height="860" alt="Final_Boss_Death" src="https://github.com/user-attachments/assets/536458c2-4285-44f1-8b5c-e3d350dd0ffb" />
 <img width="2144" height="1984" alt="Champion Ellio" src="https://github.com/user-attachments/assets/52cbdc46-3e97-476e-8fa2-d4443abcf3a8" />
+[Crowd Cheering Final.mp3](https://github.com/user-attachments/files/25475772/Crowd.Cheering.Final.mp3)
