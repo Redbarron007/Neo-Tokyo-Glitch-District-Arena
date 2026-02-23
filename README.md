@@ -1,2 +1,9 @@
 <img width="2176" height="1952" alt="Champion_Badge" src="https://github.com/user-attachments/assets/538ad6c3-e338-40cc-a9dc-3d0356409628" />
 <img width="2784" height="1536" alt="Title_Screen" src="https://github.com/user-attachments/assets/e09fd300-d7df-470a-86ae-c5eb0a6a5173" />
+<img width="1696" height="2528" alt="Final_Boss_Suppression_Barrage" src="https://github.com/user-attachments/assets/31fea3ce-066e-4c49-abee-76c44648f0cc" />
+<img width="1696" height="2528" alt="Final_Boss_Reactive_Plating" src="https://github.com/user-attachments/assets/b93217ea-67b3-4255-85ed-16ab4c7ce431" />
+<img width="1696" height="2528" alt="Final_Boss_Railburst_Cannon" src="https://github.com/user-attachments/assets/f16c6bb3-8d43-49a2-bfce-aa82136b2dfe" />
+<img width="1696" height="2528" alt="Final_Boss_Overheated" src="https://github.com/user-attachments/assets/f45e043a-26dd-4318-835d-21c19c965450" />
+<img width="1696" height="2528" alt="Final_Boss_Injured" src="https://github.com/user-attachments/assets/63d84f98-16ea-4b31-9c06-a79e197537d5" />
+<img width="1696" height="2528" alt="Final_Boss_Idle" src="https://github.com/user-attachments/assets/c189da7a-6ccf-4110-865d-bd14588ceb23" />
+<img width="1463" height="860" alt="Final_Boss_Death" src="https://github.com/user-attachments/assets/536458c2-4285-44f1-8b5c-e3d350dd0ffb" />
